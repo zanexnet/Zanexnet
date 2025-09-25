@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**zanexnet/Zanexnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="card">
+    <h1>پایا سیستم</h1>
+    <p>🌐 سایت: <a href="https://zanexnet.com" target="_blank">zanexnet.com</a></p>
+    <p>📷 اینستاگرام: <a href="https://instagram.com/Zanexnet" target="_blank">@Zanexnet</a></p>
+    <p>📞 شماره تماس: 
+      <br>
+      <a href="tel:02166453621">02166453621</a> | 
+      <a href="tel:02166453617">02166453617</a>
+    </p>
+    <p>📍 آدرس: تهران، خیابان ولیعصر، بین بزرگمهر و طالقانی، 
+      متجمع کامپیوتر پارسیان، واحد ۱۱۸
+    </p>
+  </div>
+</body>
+</html>
