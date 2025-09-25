@@ -7,6 +7,7 @@
 <body>
   <div class="card">
     <h1>پایا سیستم</h1>
+  <p class=subtitles>⚪️تهیه و پخش لوازم جانبی کامپیوتر
     <p>🌐 سایت: <a href="https://zanexnet.com" target="_blank">zanexnet.com</a></p>
     <p>📷 اینستاگرام: <a href="https://instagram.com/Zanexnet" target="_blank">@Zanexnet</a></p>
     <p>📞 شماره تماس: 
